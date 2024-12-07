@@ -1,0 +1,1 @@
+import{d as t,a as n,o as a,b as r,e as c,p as o,_}from"./index-AjVsSMF8.js";import{S as p}from"./SHUYI-ArYf1Ipv.js";const m=["src"],d=t({name:"Logo",__name:"index",setup(i){const s=n();return(u,e)=>(a(),r("div",{class:"logo",onClick:e[0]||(e[0]=l=>o(s).push("/home/index"))},[c("img",{src:o(p)},null,8,m)]))}}),g=_(d,[["__scopeId","data-v-eacc42ed"]]);export{g as L};
