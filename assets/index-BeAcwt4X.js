@@ -1,1 +1,0 @@
-import{d as t,a as n,o as r,b as a,e as c,p as o,_}from"./index-C7RjYR1-.js";import{S as p}from"./SHUYI-ArYf1Ipv.js";const m=["src"],i=t({name:"Logo",__name:"index",setup(d){const s=n();return(u,e)=>(r(),a("div",{class:"logo",onClick:e[0]||(e[0]=l=>o(s).push("/home/index"))},[c("img",{src:o(p)},null,8,m)]))}}),g=_(i,[["__scopeId","data-v-860ee4cc"]]);export{g as L};
